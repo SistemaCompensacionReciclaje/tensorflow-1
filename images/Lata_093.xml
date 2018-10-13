@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lata</folder>
+	<filename>Lata_093.jpg</filename>
+	<path>C:\Users\harold\Desktop\lata\Lata_093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>856</ymin>
+			<xmax>1203</xmax>
+			<ymax>1738</ymax>
+		</bndbox>
+	</object>
+</annotation>
